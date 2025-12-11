@@ -20,6 +20,17 @@
     *   PATH integration.
 *   **High Performance**: Built on `ratatui` and `crossterm` for low latency rendering.
 
+## 📥 Download
+
+**Experience the future of command line interfaces today.**
+
+[![Download Installer](https://github.com/rrahulppanchal/NebulaCLI/blob/development/installer.exe)
+
+> **Note**: This installer will automatically configure your environment, shortcuts, and context menus.
+
+### Portable Version
+If you prefer a portable version, you can download the [Standalone Executable](https://github.com/your-username/nebula-cli/releases/latest/download/terminal.exe).
+
 ## 🛠️ Installation
 
 ### Using the Installer (Windows)
