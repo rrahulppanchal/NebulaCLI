@@ -24,12 +24,12 @@
 
 **Experience the future of command line interfaces today.**
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-blue.svg?style=for-the-badge&logo=windows)](https://github.com/rrahulppanchal/NebulaCLI/raw/development/installer.exe)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-blue.svg?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/rrahulppanchal/NebulaCLI/refs/heads/development/installer.exe)
 
 > **Note**: This installer will automatically configure your environment, shortcuts, and context menus.
 
 ### Portable Version
-If you prefer a portable version, you can download the [Standalone Executable](https://github.com/rrahulppanchal/NebulaCLI/raw/development/terminal.exe).
+If you prefer a portable version, you can download the [Standalone Executable](https://raw.githubusercontent.com/rrahulppanchal/NebulaCLI/refs/heads/development/installer.exe).
 
 ## 🛠️ Installation
 
